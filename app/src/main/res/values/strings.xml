@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Thirukkural Translation</string>
+
+    <string name="title">Learning</string>
+
+    <string-array name="kural_list">
+        <item>Learn, what is to be learnt, with no flaws; once learnt,
+stand by what you learned.</item>
+        <item>Numbers and letters, they are known as;
+    eyes to humans, they are.</item>
+        <item>Math and writing, they are known as;
+    like eyes, they are, helping humans see and learn.</item>
+        <item> Numbers and letters, they are known as;
+    eyes to the living, they are.</item>
+        <item>The erudite have eyes; the ignorant
+    have on their faces, two gashes.</item>
+    </string-array>
+
+
+</resources>
