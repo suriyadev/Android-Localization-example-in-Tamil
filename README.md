@@ -1,6 +1,6 @@
 # Android-Localization-example-in-Tamil
 
-Make values res folder for different language suffixed with language code "-ta,-hi,-uk"
+Create values res folder for different language suffixed with language code "-ta,-hi,-uk"
 
      values     <default> US
         string.xml
